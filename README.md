@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Hanier Morales @hanier10
 - 👀 I'm interested in Coding. I am also interested in technology, mobiles and football.
-- 🌱 Learning about the wonderful world of coding
+- 🌱 Learning React
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanier10&layout=compact)](https://github.com/hanier10/github-readme-stats)
 
